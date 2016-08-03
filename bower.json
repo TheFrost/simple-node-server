@@ -1,0 +1,21 @@
+{
+  "name": "simple-node-server",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "ftinoco <ftinoco@ia.com.mx>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.0"
+  }
+}
